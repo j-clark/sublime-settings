@@ -1,0 +1,23 @@
+-console.log('your mom')
+-function() {}
+-function() {
+-asdf;
+-}
+-()
+-;
+-}
+-console.log('yourmom')
+-6*5
+-require 'tiny_tds'
+-clear
+-clear()
+-now = new Date().getTime()
+-now
+-then = now - 86400000
+-(function() {})
+-(function() {\n	return (now - then) / 86400000 < 1.1\n})()
+-(function() {\n	return (now - then) / 86400000 < 0.9\n})()
+-console.log
+-var asdf
+-asdf ||= 3
+-;

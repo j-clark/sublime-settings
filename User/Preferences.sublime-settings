@@ -1,0 +1,13 @@
+{
+	"bold_folder_labels": true,
+	"caret_style": "phase",
+	"color_scheme": "Packages/Theme - Default/Tomorrow-Night-Eighties.tmTheme",
+	"font_size": 13.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": true,
+	"trim_trailing_white_space_on_save": true
+}
